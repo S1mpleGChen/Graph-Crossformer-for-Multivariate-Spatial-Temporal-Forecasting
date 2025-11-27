@@ -4,8 +4,7 @@
 
 This repository contains the research code for our work on multivariate PV and load forecasting with graph neural networks and cross-scale temporal modeling.
 
-The project was developed as part of a collaboration between NYU and USC.  
-Codebase organized and maintained by **Guibin (Jeremy) Chen**, with contributions from an MSc student.
+The project was completed by an M.S. student under my co-supervision, with my contributions to the model design, experimental setup, and technical guidance.
 
 ## Overview
 
