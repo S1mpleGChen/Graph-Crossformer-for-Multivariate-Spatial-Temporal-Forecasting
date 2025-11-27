@@ -1,7 +1,5 @@
 # Graph-Crossformer-for-Multivariate-Spatial-Temporal-Forecasting
 
-# DIMIGNN: Graph Neural Networks with Diversity-Aware Neighbor Selection and Dynamic Multi-Scale Fusion for Multivariate Time Series Forecasting
-
 This repository contains the research code for our work on multivariate PV and load forecasting with graph neural networks and cross-scale temporal modeling.
 
 The project was completed by an M.S. student under my co-supervision, with my contributions to the model design, experimental setup, and technical guidance.
